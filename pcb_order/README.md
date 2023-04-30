@@ -153,7 +153,7 @@
                     <td>D1,D2</td>
                     <td>PGB1010603MR</td>
                     <td><a href="https://jlcpcb.com/partdetail/Littelfuse-PGB1010603MR/C142698">C142698</a></td>
-                    <td>Littelfuse</td>
+                    <td><a href="https://m.littelfuse.com/products/polymer-esd-suppressors/pulseguard-esd-suppressors/pgb10603">Littelfuse</a></td>
                     <td>ESD Suppressor SMD 24V 0.06pF 0603</td>
                 </tr>
                 <tr>
@@ -161,7 +161,7 @@
                     <td>D3,D4,D5,D6</td>
                     <td>CDSOT23-SM712</td>
                     <td><a href="https://jlcpcb.com/partdetail/Bourns-CDSOT23SM712/C404012">C404012</a></td>
-                    <td>BOURNS</td>
+                    <td><a href="https://www.bourns.com/products/diodes/diode-arrays/product/CDSOT23-SM712">BOURNS</a></td>
                     <td>TVS Diodes Array SMD 7V 400W SOT-23</td>
                 </tr>
                 <tr>
@@ -177,7 +177,7 @@
                     <td>IC1</td>
                     <td>FT4232HQ-REEL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Ftdi-FT4232HQREEL/C2651882">C2651882</a></td>
-                    <td>FTDI</td>
+                    <td><a href="https://ftdichip.com/products/ft4232hq/">FTDI</a></td>
                     <td>Quad High Speed USB to Multipurpose UART/MPSSE SMD 64-Pin QFN</td>
                 </tr>
                 <tr>
@@ -185,7 +185,7 @@
                     <td>IC2</td>
                     <td>93LC56BT-I/OT</td>
                     <td><a href="https://jlcpcb.com/partdetail/MicrochipTech-93LC56BT_IOT/C190271">C190271</a></td>
-                    <td>Microchip Tech</td>
+                    <td><a href="https://www.microchip.com/en-us/product/93LC56B">Microchip Tech</a></td>
                     <td>16-Bit EEPROM SMD SOT-23-6</td>
                 </tr>
                 <tr>
@@ -265,7 +265,7 @@
                     <td>U1</td>
                     <td>TPS73533DRBT</td>
                     <td><a href="https://jlcpcb.com/partdetail/TexasInstruments-TPS73533DRBT/C115872">C115872</a></td>
-                    <td>Texas Instruments</td>
+                    <td><a href="https://www.ti.com/product/en-us/TPS735/part-details/TPS73533DRBT">Texas Instruments></a></td>
                     <td>Linear Voltage Regulator 3.3V 500mA SMD VSON-8-EP</td>
                 </tr>
             </table>
@@ -284,8 +284,8 @@
                     <td>IC3,IC4,IC5,IC6</td>
                     <td>ADM3078EARZ</td>
                     <td><a href="https://jlcpcb.com/partdetail/AnalogDevices-ADM3078EARZ/C658187">C658187</a></td>
-                    <td>Analog Devices</td>
-                    <td>RS-485/RS-422 transceiver 16Mbps SMD SOIC-8</td>
+                    <td><a href="https://www.analog.com/en/products/adm3078e.html">Analog Devices</a></td>
+                    <td>RS-485/RS-422 Transceiver 16Mbps SMD SOIC-8</td>
                 </tr>
             </table>
             These selected parts are listed in <a href="bom.xls">bom.xls</a>.<br>
