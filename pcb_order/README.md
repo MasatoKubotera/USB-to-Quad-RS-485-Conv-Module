@@ -265,7 +265,7 @@
                     <td>U1</td>
                     <td>TPS73533DRBT</td>
                     <td><a href="https://jlcpcb.com/partdetail/TexasInstruments-TPS73533DRBT/C115872">C115872</a></td>
-                    <td><a href="https://www.ti.com/product/en-us/TPS735/part-details/TPS73533DRBT">Texas Instruments></a></td>
+                    <td><a href="https://www.ti.com/product/en-us/TPS735/part-details/TPS73533DRBT">Texas Instruments</a></td>
                     <td>Linear Voltage Regulator 3.3V 500mA SMD VSON-8-EP</td>
                 </tr>
             </table>
