@@ -269,7 +269,7 @@
                     <td>Linear Voltage Regulator 3.3V 500mA SMD VSON-8-EP</td>
                 </tr>
             </table>
-            The following component was not installed by PCBA due to availability.
+            The following components could not be attached by PCBA due to stock availability.
             <table>
                 <tr>
                     <th>Part Image</th>
