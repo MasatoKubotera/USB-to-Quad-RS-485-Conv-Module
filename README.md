@@ -133,8 +133,8 @@
         </p>
     <h2>Contact</h2>
         <p>
-            If you have any questions, please contact the designer of this product, Masato Kubodera, by <a href="mailto:masatokubotera06@yahoo.co.jp">e-mail</a>.<br>
-            E-mail: <a href="mailto:masatokubotera06@yahoo.co.jp">masato.kubotera@sustaina-op.com </a>
+            If you have any questions, please contact the designer of this product, Masato Kubodera, by <a href="mailto:masato.kubotera@sustaina-op.com">e-mail</a>.<br>
+            E-mail: <a href="mailto:masato.kubotera@sustaina-op.com">masato.kubotera@sustaina-op.com</a>
         </p>
     <h2>License Information</h2>
         <p>
