@@ -10,8 +10,8 @@
     <p><strong>This product is currently under development!</strong></p>
 	<h1>USB to Quad RS-485 Conv. Module</h1>
         <p>
-            This product is USB to 4 RS-485 conversion module. The FTDI FT4232H is used for USB to quad UART conversion, and the Analog Devices ADM3078E is used for UART to RS-485 conversion. USB is 2.0 High Speed (480 Mb/s) and RS-485 supports a maximum baud rate of 16 MBps. The RS-485 I/O voltage is 3.3 V and is supplied by USB bus power from the regulator on the board. This product has a internal EEPROM and programmable in-circuit over USB using a utility program called FT_PROG available from FTDI’s web site (www.ftdichip.com). <br>
-            Note: For this product, RI as RS485 Enabled (Enables the RI pin to be used as the TXDEN signal for RS485 busses) using FT_PROG in order to convert USB to RS-485 for transmission.
+            This product is USB to 4 RS-485 conversion module. The FTDI FT4232H is used for USB to quad UART conversion, and the Analog Devices ADM3078E is used for UART to RS-485 conversion. USB is 2.0 High Speed (480 Mb/s) and RS-485 supports a maximum baud rate of 16 MBps. The RS-485 I/O voltage is 3.3 V and is supplied by USB bus power from the regulator on the board. This product has a internal EEPROM and programmable in-circuit over USB using a utility program called FT_PROG available from FTDI’s web site (www.ftdichip.com). <br><br>
+            Note: For this product, RI must be RS485 enabled (Enables the RI pin to be used as the TXDEN signal for RS485 busses) using FT_PROG in order to convert USB to RS-485 for transmission.
         </p>
 	<h2>Features Rev. 1</h2>
         <p>
