@@ -202,7 +202,7 @@
                     <td>RC0402FR-071KL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR071KL/C106235">C106235</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 1kΩ 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 1kΩ 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_YAGEO-RC0402FR-0710RL_C138066_front.jpg" width="100px"></td>
@@ -210,7 +210,7 @@
                     <td>RC0402FR-0710RL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR0710RL/C138066">C138066</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 10Ω 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 10Ω 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_YAGEO-RC0402FR-0715KL_C114761_front_11.jpg" width="100px"></td>
@@ -218,7 +218,7 @@
                     <td>RC0402FR-0715KL</td>
                     <td><a href="https://jlcpcb.com/partdetail/12030-0402WGF1872TCE/C11476">C11476</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 15kΩ 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 15kΩ 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20221230_YAGEO-RC0402FR-0710KL_C60490_front.jpg" width="100px"></td>
@@ -226,7 +226,7 @@
                     <td>RC0402FR-0710KL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR0710KL/C60490">C60490</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 10kΩ 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 10kΩ 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_YAGEO-RC0402FR-0712KL_C114760_front_10.jpg" width="100px"></td>
@@ -234,7 +234,7 @@
                     <td>RC0402FR-0712KL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR0712KL/C114760">C114760</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 12kΩ 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 12kΩ 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_YAGEO-RC0402FR-072KL_C60488_front_10.jpg" width="100px"></td>
@@ -242,7 +242,7 @@
                     <td>RC0402FR-072KL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR072KL/C60488">C60488</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 2kΩ 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 2kΩ 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_YAGEO-RC0402FR-07680RL_C137948_front.jpg" width="100px"></td>
@@ -250,7 +250,7 @@
                     <td>RC0402FR-07680RL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR07680RL/C137948">C137948</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 680Ω 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 680Ω 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20230102_YAGEO-RC0402FR-07120RL_C114758_front.jpg" width="100px"></td>
@@ -258,7 +258,7 @@
                     <td>RC0402FR-07120RL</td>
                     <td><a href="https://jlcpcb.com/partdetail/Yageo-RC0402FR07120RL/C114758">C114758</a></td>
                     <td>YAGEO</td>
-                    <td>Thick Film Resistor SMD 120Ω 1/10W ±1% 0402</td>
+                    <td>Thick Film Resistor SMD 120Ω 62.5mW ±1% 0402</td>
                 </tr>
                 <tr>
                     <td><img src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Texas-Instruments-TPS73533DRBT_C115872_front_10.jpg" width="100px"></td>
