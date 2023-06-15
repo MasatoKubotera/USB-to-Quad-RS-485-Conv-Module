@@ -1,19 +1,19 @@
 <html lang="en">
 
 <head>
-	<meta charset="uft-8">
-	<meta name="author" content="Masato Kubotera">
+    <meta charset="uft-8">
+    <meta name="author" content="Masato Kubotera">
     <meta name="description" content="">
 </head>
 
 <body>
     <p><strong>This product is currently under development!</strong></p>
-	<h1>USB to Quad RS-485 Conv. Module</h1>
+    <h1>USB to Quad RS-485 Conv. Module</h1>
         <p>
             This product is USB to 4 RS-485 conversion module. The FTDI FT4232H is used for USB to quad UART conversion, and the Analog Devices ADM3078E is used for UART to RS-485 conversion. USB is 2.0 High Speed (480 Mb/s) and RS-485 supports a maximum baud rate of 16 MBps. The RS-485 I/O voltage is 3.3 V and is supplied by USB bus power from the regulator on the board. This product has a internal EEPROM and programmable in-circuit over USB using a utility program called FT_PROG available from FTDI’s web site (www.ftdichip.com). <br><br>
             Note: For this product, RI must be RS485 enabled (Enables the RI pin to be used as the TXDEN signal for RS485 busses) using FT_PROG in order to convert USB to RS-485 for transmission.
         </p>
-	<h2>Features Rev. 1</h2>
+    <h2>Features Rev. 1</h2>
         <p>
             <table>
                 <tr>
@@ -77,7 +77,7 @@
                 </li>
             </ul>
         </p>
-	<h2>Development Environments</h2>
+    <h2>Development Environments</h2>
     <p>
         This product is designed with the following software.
             <ul>
@@ -129,6 +129,18 @@
                 <li><a href="https://www.analog.com/media/en/analog-dialogue/volume-47/number-2/articles/safeguard-your-rs-485-communication-networks.pdf">Analog Devices Safeguard Your RS-485 Communication Networks from Harmful EMC Events</a></li>
                 <li><a href="https://kondo-robot.com/w/wp-content/uploads/2014-B3M_series_manual_Ver.1.1.3.pdf#page=8">KONDO B3M Series Manual Ver1.13 pp.8</a></li>
             </ul>
+        </p>
+    <h2>Acknowledgements</h2>
+        <p>
+            The background to the development of this product was the development of QUADDXL, which was introduced in the following paper.
+            <ul>
+                <li>Bestmann, M., Güldenstein, J., Zhang, J. : High-Frequency Multi Bus Servo and Sensor Communication Using the Dynamixel Protocol. RoboCup 2019: Robot World Cup XXIII, pp.16–29 (2019)</li>
+            </ul>
+            Development data and other information on QUADDXL are available in the following repositories.
+            <ul>
+                <li><a href="https://github.com/bit-bots/bitbots_quaddxl">bit-bots/bitbots_quaddxl</a>: USB to RS485 Converter using FT4232H</li>
+            </ul>
+            I would like to take this opportunity to thank you.
         </p>
     <h2>Contact</h2>
         <p>
